@@ -4,3 +4,4 @@ class Solution:
         for i in nums:
             n=n^i
         return n
+#change
